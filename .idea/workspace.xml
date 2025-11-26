@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd24c0b5-dd01-46e0-9e8e-eaf8079d2b1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio10/Exercicio10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 10/Exercicio10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio10/out/production/Exercicio10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 10/out/production/Exercicio10/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio10/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 10/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio11/Exercicio11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 11/Exercicio11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio11/out/production/Exercicio11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 11/out/production/Exercicio11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio11/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 11/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio12/Exercicio12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 12/Exercicio12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio12/out/production/Exercicio12/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 12/out/production/Exercicio12/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio12/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 12/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio13/Exercicio13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 13/Exercicio13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio13/out/production/Exercicio13/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 13/out/production/Exercicio13/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio13/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 13/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio14/Exercicio14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 14/Exercicio14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio14/out/production/Exercicio14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 14/out/production/Exercicio14/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio14/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 14/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio15/Exercicio15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 15/Exercicio15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio15/out/production/Exercicio15/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 15/out/production/Exercicio15/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio15/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 15/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio16/Exercicio10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 16/Exercicio10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio16/Exercicio16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 16/Exercicio16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio16/out/production/Exercicio16/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 16/out/production/Exercicio16/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio16/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 16/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio17/Exercicio17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 17/Exercicio17.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio17/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 17/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio18/Exercicio18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 18/Exercicio18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio18/out/production/Exercicio18/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 18/out/production/Exercicio18/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio18/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 18/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio19/Exercicio19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 19/Exercicio19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio19/out/production/Exercicio19/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 19/out/production/Exercicio19/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio19/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 19/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio2/Exercicio2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio2/Exercicio2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio2/out/production/Exercicio2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 2/out/production/Exercicio2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio20/Exercicio20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 20/Exercicio20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio20/out/production/Exercicio20/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 20/out/production/Exercicio20/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio20/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 20/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio21/Exercicio21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 21/Exercicio21.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio21/out/production/Exercicio21/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 21/out/production/Exercicio21/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio21/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 21/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio22/Exercicio22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 22/Exercicio22.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio22/out/production/Exercicio22/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 22/out/production/Exercicio22/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio22/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 22/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio3/Exercicio3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio3/Exercicio3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio3/out/production/Exercicio3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 3/out/production/Exercicio3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio4/Exercicio4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 4/Exercicio4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio4/out/production/Exercicio4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 4/out/production/Exercicio4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio6/Exercicio6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 6/Exercicio6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio6/out/production/Exercicio6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 6/out/production/Exercicio6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio7/Exercicio7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 7/Exercicio7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio7/out/production/Exercicio7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 7/out/production/Exercicio7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio7/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 7/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio8/Exercicio8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 8/Exercicio8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio8/out/production/Exercicio8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 8/out/production/Exercicio8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Cadastro.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Cadastro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Equacao/Equacao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Equacao/Equacao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Equacao/Resolução de Equação do segundo grau.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Equacao/Resolução de Equação do segundo grau.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Equacao/out/production/Resolução de fração do primeiro grau/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Equacao/out/production/Resolução de fração do primeiro grau/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Equacao/out/production/expresão_Matematica/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Equacao/out/production/expresão_Matematica/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Equacao/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Equacao/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio 1/Exercicio_estrutura_seguencial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio 1/Exercicio_estrutura_seguencial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio 1/out/production/Exercicio 1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio 1/out/production/Exercicio 1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio 5/Exercicio 5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio 5/Exercicio 5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio 5/out/production/Exercicio 5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio 5/out/production/Exercicio 5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio 5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio 5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio2/Exercicio2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 2/Exercicio2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio2/out/production/Exercicio2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio2/out/production/Exercicio2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio3/Exercicio3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 3/Exercicio3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio3/out/production/Exercicio3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio3/out/production/Exercicio3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio4/Exercicio4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio4/Exercicio4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio4/out/production/Exercicio4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio4/out/production/Exercicio4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio6/Exercicio6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio6/Exercicio6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio6/out/production/Exercicio6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio6/out/production/Exercicio6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio7/Exercicio7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio7/Exercicio7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio7/out/production/Exercicio7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio7/out/production/Exercicio7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio7/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio7/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio8/Exercicio8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio8/Exercicio8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio8/out/production/Exercicio8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio8/out/production/Exercicio8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Exercicio8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Exercicio8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Codigos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Codigos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/Exercicio9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/Exercicio9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/out/production/Exercicio9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/out/production/Exercicio9/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio9/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 9/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="361iYCyYJpkYJSsGITAbo8vh4jA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/eslam/Documents/GitHub/Projetos-JAVA"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd24c0b5-dd01-46e0-9e8e-eaf8079d2b1b" name="Changes" comment="" />
+      <created>1764180524614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764180524614</updated>
+    </task>
+    <servers />
+  </component>
+</project>

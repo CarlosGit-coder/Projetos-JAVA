@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd24c0b5-dd01-46e0-9e8e-eaf8079d2b1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio 26/Exercicio 26.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exercicio 26/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exericio 24/Exericio 24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 24/Exericio 24.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exericio 24/out/production/Exericio 24/Aplication/program.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 24/out/production/Exericio 24/Aplication/program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exericio 24/out/production/Exericio 24/Entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 24/out/production/Exericio 24/Entities/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exericio 24/src/Aplication/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 24/src/Aplication/program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigos/Exericio 24/src/Entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigos/Exercicio 24/src/Entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projetos-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Projetos-JAVA.iml" afterDir="false" />
-    </list>
+    <list default="true" id="fd24c0b5-dd01-46e0-9e8e-eaf8079d2b1b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/carlosg/Projetos-JAVA",
+    "last_opened_file_path": "/home/carlosg/Exercicio 28",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,6 +81,7 @@
       <workItem from="1766981326261" duration="409000" />
       <workItem from="1767613422782" duration="982000" />
       <workItem from="1767614411678" duration="645000" />
+      <workItem from="1767738250198" duration="84000" />
     </task>
     <servers />
   </component>

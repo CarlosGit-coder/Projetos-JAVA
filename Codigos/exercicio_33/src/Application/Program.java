@@ -7,15 +7,29 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
+import java.util.TimeZone;
+import java.util.Calendar;
 
 public class Program {
 
     public static void main(String[] args) throws ParseException {
 
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
         SimpleDateFormat sdf1 = new SimpleDateFormat("dd/MM/yyyy");
         SimpleDateFormat sdf2 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+        SimpleDateFormat sdf3 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+        sdf3.setTimeZone(TimeZone.getTimeZone("GMT"));
+
+        Date d = Date.from(Instant.parse("2018-06-25T15:42:07Z"));
+        Date x1 = new Date();
+        Date x2 = new Date(System.currentTimeMillis());
+        Date x3 = new Date(0L);
+        Date x4 = new Date(1000L * 60L * 60L * 5L);
+
 
         Date y1 = sdf1.parse("25/06/2018");
+        Date y2 = sdf2.parse("25/06/2018 15:42:07");
+        Date y3 = Date.from(Instant.parse("2018-06-25T15:42:07Z"));
 
         LocalDate data04 = LocalDate.parse("2025-01-15");
         LocalDateTime data05 = LocalDateTime.parse("2025-01-15T01:30:34");
@@ -40,7 +54,6 @@ public class Program {
         LocalDate r2 = LocalDate.ofInstant(data06, ZoneId.of("Portugal"));
         LocalDateTime r3 = LocalDateTime.ofInstant(data06, ZoneId.systemDefault());
         LocalDateTime r4 = LocalDateTime.ofInstant(data06, ZoneId.of("Portugal"));
-
         DateTimeFormatter format1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter format2 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
         DateTimeFormatter format3 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());
@@ -70,13 +83,33 @@ public class Program {
         Duration t1 = Duration.between(pastWeekLocalDate.atStartOfDay(), data04.atStartOfDay());
         Duration t2 = Duration.between(pastWeekLocalDateTime, data05);
         Duration t3 = Duration.between(pastWeekInstant, data06);
+
+
         Duration t4 = Duration.between(data06, pastWeekInstant);
+
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(d);
+        cal.add(Calendar.HOUR_OF_DAY, 4);
+        d = cal.getTime();
+        int minutes = cal.get(Calendar.MINUTE);
+        int month = 1 + cal.get(Calendar.MONTH);
 
         System.out.println("t1 dias = " + t1.toDays());
         System.out.println("t2 dias = " + t2.toDays());
         System.out.println("t3 dias = " + t3.toDays());
         System.out.println("t4 dias = " + t4.toDays());
 
+        System.out.println("x1: " + sdf2.format(x1));
+        System.out.println("x2: " + sdf2.format(x2));
+        System.out.println("x3: " + sdf2.format(x3));
+        System.out.println("x4: " + sdf2.format(x4));
+        System.out.println("y1: " + sdf2.format(y1));
+        System.out.println("y2: " + sdf2.format(y2));
+        System.out.println("y3: " + sdf3.format(y3));
+
+        System.out.println(sdf.format(d));
+        System.out.println("Minutes: " + minutes);
+        System.out.println("Month: " + month);
 
     }
 }

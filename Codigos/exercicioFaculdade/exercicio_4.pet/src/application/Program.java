@@ -17,5 +17,6 @@ public class Program {
 
         pet.alimentarPet(pet.fome);
         System.out.println("Número aleatorio gerado pra testar; " + numero);
+
     }
 }

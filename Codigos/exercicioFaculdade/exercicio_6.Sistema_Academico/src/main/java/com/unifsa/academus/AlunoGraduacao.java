@@ -8,8 +8,8 @@ public class AlunoGraduacao extends  Aluno {
     public boolean verificarAprovacao() {
         return getNotaFinal() >=7;
     }
-    public String exibirDados() {
-        super.exibirDados();
+    public String exibirDados(Aluno a) {
+        super.exibirDados(Aluno a);
         return "\n=========== DADOS DO ALUNO DE GRADUAÇÂO ===========" +
                 "Tipo: Graduação" +
                 "Situação: " + (verificarAprovacao() ? "APROVADO" : "REPROVADO");

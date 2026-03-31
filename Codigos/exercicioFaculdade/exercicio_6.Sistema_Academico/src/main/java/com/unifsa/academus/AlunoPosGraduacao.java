@@ -11,8 +11,8 @@ public class AlunoPosGraduacao extends Aluno{
     public void publicarArtigo() {
         System.out.println(getNome() + "publicou um artigo científico:");
     }
-    public String exibirDados() {
-        super.exibirDados();
+    public String exibirDados(Aluno a) {
+        super.exibirDados(Aluno a);
         return "\n=========== DADOS DO ALUNO DE PÓS ===========" +
                 "Tipo: Pós-Graduação" +
                 "Situação: " + (verificaraprovacao() ? "APROVADO" : "REPROVADO");

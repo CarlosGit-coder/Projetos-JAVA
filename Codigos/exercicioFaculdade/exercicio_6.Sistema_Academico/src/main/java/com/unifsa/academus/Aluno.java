@@ -53,7 +53,7 @@ public class Aluno {
     }
 
 
-    public String exibirDados() {
+    public String exibirDados(Aluno a) {
         System.out.println("\n=========== DADOS DO ALUNO ===========");
 
         return "Dados do aluno\n" +

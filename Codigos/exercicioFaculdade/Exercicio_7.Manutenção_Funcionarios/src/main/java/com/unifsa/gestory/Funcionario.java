@@ -4,8 +4,8 @@ public class Funcionario {
     public String nome;
     private double salario;
 
-    public double addAumento(Funcionario f) {
-        f.salario +=  (f.salario * 20) / 100;
+    public double addAumento(double valor, Funcionario f) {
+        f.salario += valor;
         return f.salario;
     }
     public double ganhoAnual() {

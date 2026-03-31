@@ -46,16 +46,15 @@ public class Rota {
 
     public String gerarManifesto(Veiculo v, Carga c, Motorista m, Rota r) {
         System.out.println("\n========== MANIFESTO DE CARGA ==========");
+
         return "Dados da rota\n" +
                 "Origem :" + r.origem + "\n" +
-
                 "Destino : " + r.destino + "\n" +
                 "Distancia : " + r.distanciaKm + " Km\n" +
                 "Preço do combustivel : R$ " + r.precoCombustivel + "\n" +
                 "Peso : " + c.peso + " Kg\n" +
                 "Nome da carga : " + c.descricao + "\n" +
                 "\n========== FIM DO RELATORIO ==========";
-
     }
 
 }

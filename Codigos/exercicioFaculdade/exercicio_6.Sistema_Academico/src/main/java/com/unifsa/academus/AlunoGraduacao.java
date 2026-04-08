@@ -9,7 +9,7 @@ public class AlunoGraduacao extends  Aluno {
         return getNotaFinal() >=7;
     }
     public String exibirDados(Aluno a) {
-        super.exibirDados(Aluno a);
+        super.exibirDados(a);
         return "\n=========== DADOS DO ALUNO DE GRADUAÇÂO ===========" +
                 "Tipo: Graduação" +
                 "Situação: " + (verificarAprovacao() ? "APROVADO" : "REPROVADO");

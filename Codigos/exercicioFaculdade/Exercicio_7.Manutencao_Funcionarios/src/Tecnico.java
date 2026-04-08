@@ -1,5 +1,3 @@
-package com.unifsa.gestory;
-
 public class Tecnico extends Assistente{
 
     public double bonus;

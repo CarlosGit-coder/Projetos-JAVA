@@ -2,12 +2,8 @@ package com.unifsa.diagrama;
 
 public class Cachorro extends Animal {
 
-    public Cachorro() {
-        super(nome);
-    }
-
-    public Cachorro(String nome) {
-        super(nome);
+    public Cachorro(String n) {
+        super(n);
     }
 
     public String late() {

@@ -1,5 +1,3 @@
-package com.unifsa.gestory;
-
 public class Assistente extends Funcionario{
     private String numeroMatricula;
 

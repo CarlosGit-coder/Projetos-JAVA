@@ -1,5 +1,3 @@
-package com.unifsa.gestory;
-
 public class Administrativo extends Assistente{
 
     public boolean turno;

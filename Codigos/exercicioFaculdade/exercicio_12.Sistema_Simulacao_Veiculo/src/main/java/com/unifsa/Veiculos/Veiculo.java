@@ -7,78 +7,80 @@ public class Veiculo {
     private double velocidadeMax;
     private int qntCavalos;
     private String placa;
-    private double velocidadeInicial;
+    private double velocidadeAtual;
 
-    public String getModelo() {
-        return modelo;
+    public Veiculo(String modelo, String marca, double velocidadeMax, int qntCavalos, String placa, double velocidadeAtual) {
+        this.modelo = modelo;
+        this.marca = marca;
+        this.velocidadeMax = velocidadeMax;
+        this.qntCavalos = qntCavalos;
+        this.placa = placa;
+        this.velocidadeAtual = velocidadeAtual;
     }
 
-    public void setModelo(String modelo) {
-        this.modelo = modelo;
+    public void acelerar() {
+        velocidadeAtual += 5;
+    }
+
+    public void frear() {
+        if (velocidadeAtual > 5) {
+            velocidadeAtual -= 5;
+        } else {
+            velocidadeAtual = 0;
+        }
+    }
+
+    public void exibirStatus() {
+        System.out.println("Veículo: " + marca + " " + modelo);
+    }
+
+    public void ligar() {
+        System.out.println("Veículo ligado!");
+    }
+
+    public void interagir(Veiculo outro) {
+        System.out.println("Interagindo com outro veículo...");
+    }
+
+    public void abastecer(double litros) {
+        System.out.println("Abastecendo " + litros + " litros");
+    }
+
+    public void abastecer(double litros, String tipo) {
+        System.out.println("Abastecendo " + litros + "L de " + tipo);
+    }
+
+    public double calcularConsumo() {
+        return 10;
+    }
+
+    public double getVelocidadeAtual() {
+        return velocidadeAtual;
     }
 
     public String getMarca() {
         return marca;
     }
 
-    public void setMarca(String marca) {
-        this.marca = marca;
-    }
-
-    public double getVelocidadeMax() {
-        return velocidadeMax;
-    }
-
-    public void setVelocidadeMax(double velocidadeMax) {
-        if (velocidadeMax < 1) {
-            System.out.println("Quantidade inserida invalida!!! ");
-            System.out.println("Insira outra velocidade por favor ");
-        } else {
-            this.velocidadeMax = velocidadeMax;
-        }
-
-    }
-
-    public double getVelocidadeInicial() {
-        return velocidadeInicial;
-    }
-
-    public void setVelocidadeInicial(double velocidadeInicial) {
-        if (velocidadeInicial < 0 ) {
-            System.out.println();
-        }
-        this.velocidadeInicial = velocidadeInicial;
-    }
-
-    public int getQntCavalos() {
-        return qntCavalos;
-    }
-
-    public void setQntCavalos(int qntCavalos) {
-        if (qntCavalos < 1) {
-            System.out.println("Quantidade inserida invalida!!!");
-            System.out.println("Insira outra velocidade ");
-        } else {
-            this.qntCavalos = qntCavalos;
-        }
-
+    public String getModelo() {
+        return modelo;
     }
 
     public String getPlaca() {
         return placa;
     }
 
-    public void setPlaca(String placa) {
-        this.placa = placa;
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (!(obj instanceof Veiculo)) return false;
+
+        Veiculo v = (Veiculo) obj;
+        return placa.equals(v.placa);
     }
 
-    public Veiculo(String modelo, String marca, double velocidadeMax, int qntCavalos, String placa, double velocidadeInicial) {
-        this.modelo = modelo;
-        this.marca = marca;
-        this.velocidadeMax = velocidadeMax;
-        this.qntCavalos = qntCavalos;
-        this.placa = placa;
-        this.velocidadeInicial = velocidadeInicial;
+    @Override
+    public int hashCode() {
+        return placa.hashCode();
     }
 }
-

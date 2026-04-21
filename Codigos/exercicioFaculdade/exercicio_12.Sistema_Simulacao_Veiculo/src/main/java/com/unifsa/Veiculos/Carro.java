@@ -2,41 +2,44 @@ package com.unifsa.Veiculos;
 
 public class Carro extends Veiculo {
 
-    public Carro(String moodelo, String marca) {
-        super(moodelo, marca, 200, 250, "OVW-1512", 0);
-    }
-    // @Overload
-    public Carro(String moodelo, String marca, double velocidadeMax, int qntCavalos, String placa, double velocidadeInicial) {
-        super(moodelo, marca, velocidadeMax, qntCavalos, placa, velocidadeInicial);
+    private int portas;
+
+    public Carro(String modelo, String marca) {
+        super(modelo, marca, 200, 150, "XXX-0000", 0);
+        this.portas = 4;
     }
 
+    public Carro(String modelo, String marca, double velocidadeInicial) {
+        super(modelo, marca, 200, 150, "XXX-0000", velocidadeInicial);
+        this.portas = 4;
+    }
+
+    @Override
     public void acelerar() {
-        setVelocidadeInicial(getVelocidadeInicial() + 10);
+        super.acelerar();
+        System.out.println("Carro acelerando...");
     }
-    // @Overload
+
     public void acelerar(int incremento) {
-        setVelocidadeInicial( getVelocidadeInicial() + incremento);
-    }
-
-    public void frear() {
-        if (getVelocidadeInicial() > 10) {
-            setVelocidadeInicial(getVelocidadeInicial() - 10);
-        } else {
-            setVelocidadeInicial(0);
-        }
-
-    }
-    // @Overload
-    public void frear(int incremento) {
-        if (getVelocidadeInicial() > incremento) {
-            setVelocidadeInicial(getVelocidadeInicial() - incremento);
-        } else {
-            setVelocidadeInicial(0);
+        for (int i = 0; i < incremento; i++) {
+            super.acelerar();
         }
     }
 
     @Override
+    public void exibirStatus() {
+        System.out.println("Carro: " + getMarca() + " " + getModelo() +
+                " | Velocidade: " + getVelocidadeAtual() +
+                " | Portas: " + portas);
+    }
+
+    public void ligar(String modo) {
+        System.out.println("Carro ligado no modo " + modo);
+    }
+
+    @Override
     public String toString() {
-        return super.toString();
+        return "Carro: " + getMarca() + " " + getModelo() +
+                " - Velocidade: " + getVelocidadeAtual() + " km/h";
     }
 }
